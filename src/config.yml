@@ -1,0 +1,15 @@
+# Within this config, yo'll be able to change as much as you want basically
+# Enjoy — Created with ❤ from Summmy
+
+
+# Suggest using this to prevent day cycle and storms
+time: true
+
+
+# Here you can implement the messages you want every player to see
+# — No permissions needed...
+actionbar: '§eserver ip'
+
+# player player player
+# We suggest leaving this alone
+joinboolean: false
